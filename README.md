@@ -1,4 +1,4 @@
-# keyword-based-resume-screening-and-matching-using-Python-and-Flask.
+# keyword based resume Screening matching using Python and Flask.
 This code is a Flask application that performs keyword matching on uploaded resumes (in PDF or DOCX format) against specified keywords. Here's a breakdown of what each part of the code does:
 
 Imports:
